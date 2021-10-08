@@ -7,3 +7,4 @@ f=int(input("introduce nº f: "))
 x=((c*e)-(f*b))/((a*e)-(d*b))
 y=((a*f)-(d*c))/(a*e)-d*b))
 print("La solución del sistema es x= ",x,"y= ",y)
+
