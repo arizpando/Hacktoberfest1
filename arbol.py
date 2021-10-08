@@ -21,3 +21,5 @@ if espacios >= 1:
             numEspac=(espacio*espacios)
             inicEspac=espacio*i
             print(inicEspac,"\\",numEspac,"/")  
+
+            
